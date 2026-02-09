@@ -1,0 +1,2 @@
+# Requires: hypothetical-gap
+# (Not available on PyPI)
